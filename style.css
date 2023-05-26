@@ -27,6 +27,7 @@ header .right-side{
     font-size: 20px;
     font-family: 'viga' , serif;
     text-decoration: none;
+    transition: 0.2s;
     color: black;
  }
 
